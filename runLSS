@@ -14,5 +14,5 @@ module load gcc
 
 cd /home/stud/ug30owag/Documents/GMRF_exa
 
-make clean && time make -j
+#make clean && time make -j
 mpirun -np 36 -npernode 18 ./exastencils

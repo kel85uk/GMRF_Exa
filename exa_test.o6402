@@ -1,0 +1,192 @@
+Finished user prologue on all sister nodes...
+Starting user prologue on mother superior node i10hpc8...
+Exiting user prologue on mother superior node i10hpc8...
+Starting job script on mother superior node i10hpc8...
+Total time to setup:  8.10422
+Starting residual: 3.00776
+Residual: 6.00635e-05 Residual reduction: 50076.4 Convergence factor: 1.99695e-05
+Residual: 5.37459e-10 Residual reduction: 5.59626e+09 Convergence factor: 8.94819e-06
+Total time to solve in 2 steps : 74.292
+Mean time per vCycle:  34.5663
+Starting residual at 0 263.256
+Residual at 0: 11.6088 Residual reduction: 22.6773 Convergence factor: 0.0440969
+Residual at 0: 0.266171 Residual reduction: 989.048 Convergence factor: 0.0229284
+Residual at 0: 0.00716464 Residual reduction: 36743.8 Convergence factor: 0.0269174
+Residual at 0: 0.000215268 Residual reduction: 1.22292e+06 Convergence factor: 0.0300459
+Residual at 0: 9.81486e-06 Residual reduction: 2.68222e+07 Convergence factor: 0.0455937
+Residual at 0: 1.40555e-06 Residual reduction: 1.87298e+08 Convergence factor: 0.143206
+Residual at 0: 2.7013e-07 Residual reduction: 9.74554e+08 Convergence factor: 0.192189
+Residual at 0: 5.28382e-08 Residual reduction: 4.98231e+09 Convergence factor: 0.195603
+Residual at 0: 1.03607e-08 Residual reduction: 2.54091e+10 Convergence factor: 0.196084
+Residual at 0: 2.03359e-09 Residual reduction: 1.29454e+11 Convergence factor: 0.196279
+Total time to solve in 10 steps : 63.1461
+Mean time per vCycle:  4.02587
+Starting residual: 3.00772
+Residual: 6.00904e-05 Residual reduction: 50053.2 Convergence factor: 1.99787e-05
+Residual: 5.37192e-10 Residual reduction: 5.59896e+09 Convergence factor: 8.93973e-06
+Total time to solve in 2 steps : 47.6308
+Mean time per vCycle:  23.1567
+Starting residual at 0 263.242
+Residual at 0: 11.6078 Residual reduction: 22.6779 Convergence factor: 0.0440958
+Residual at 0: 0.266104 Residual reduction: 989.242 Convergence factor: 0.0229245
+Residual at 0: 0.00716175 Residual reduction: 36756.6 Convergence factor: 0.0269133
+Residual at 0: 0.000215158 Residual reduction: 1.22348e+06 Convergence factor: 0.0300426
+Residual at 0: 9.80866e-06 Residual reduction: 2.68377e+07 Convergence factor: 0.0455883
+Residual at 0: 1.40394e-06 Residual reduction: 1.87502e+08 Convergence factor: 0.143133
+Residual at 0: 2.69805e-07 Residual reduction: 9.75673e+08 Convergence factor: 0.192177
+Residual at 0: 5.27734e-08 Residual reduction: 4.98815e+09 Convergence factor: 0.195598
+Residual at 0: 1.03482e-08 Residual reduction: 2.54384e+10 Convergence factor: 0.196087
+Residual at 0: 2.03121e-09 Residual reduction: 1.29598e+11 Convergence factor: 0.196286
+Total time to solve in 10 steps : 63.7689
+Mean time per vCycle:  4.08506
+Starting residual: 3.00759
+Residual: 6.00788e-05 Residual reduction: 50060.9 Convergence factor: 1.99757e-05
+Residual: 5.36512e-10 Residual reduction: 5.60583e+09 Convergence factor: 8.93015e-06
+Total time to solve in 2 steps : 47.301
+Mean time per vCycle:  23.0226
+Starting residual at 0 263.213
+Residual at 0: 11.6073 Residual reduction: 22.6765 Convergence factor: 0.0440986
+Residual at 0: 0.266178 Residual reduction: 988.86 Convergence factor: 0.0229319
+Residual at 0: 0.0071668 Residual reduction: 36726.7 Convergence factor: 0.0269248
+Residual at 0: 0.000215379 Residual reduction: 1.22209e+06 Convergence factor: 0.0300523
+Residual at 0: 9.81724e-06 Residual reduction: 2.68113e+07 Convergence factor: 0.0455813
+Residual at 0: 1.4043e-06 Residual reduction: 1.87434e+08 Convergence factor: 0.143044
+Residual at 0: 2.69872e-07 Residual reduction: 9.75326e+08 Convergence factor: 0.192176
+Residual at 0: 5.27836e-08 Residual reduction: 4.98664e+09 Convergence factor: 0.195588
+Residual at 0: 1.03495e-08 Residual reduction: 2.54324e+10 Convergence factor: 0.196074
+Residual at 0: 2.0313e-09 Residual reduction: 1.29579e+11 Convergence factor: 0.19627
+Total time to solve in 10 steps : 62.8805
+Mean time per vCycle:  4.00149
+Starting residual: 3.00732
+Residual: 6.00589e-05 Residual reduction: 50072.8 Convergence factor: 1.99709e-05
+Residual: 5.37185e-10 Residual reduction: 5.59829e+09 Convergence factor: 8.94431e-06
+Total time to solve in 2 steps : 46.902
+Mean time per vCycle:  22.8251
+Starting residual at 0 263.245
+Residual at 0: 11.6038 Residual reduction: 22.6862 Convergence factor: 0.0440797
+Residual at 0: 0.26593 Residual reduction: 989.905 Convergence factor: 0.0229175
+Residual at 0: 0.00715686 Residual reduction: 36782.2 Convergence factor: 0.0269126
+Residual at 0: 0.000215063 Residual reduction: 1.22404e+06 Convergence factor: 0.0300499
+Residual at 0: 9.82227e-06 Residual reduction: 2.68008e+07 Convergence factor: 0.0456716
+Residual at 0: 1.40867e-06 Residual reduction: 1.86875e+08 Convergence factor: 0.143416
+Residual at 0: 2.70818e-07 Residual reduction: 9.72038e+08 Convergence factor: 0.19225
+Residual at 0: 5.29851e-08 Residual reduction: 4.96828e+09 Convergence factor: 0.195649
+Residual at 0: 1.03918e-08 Residual reduction: 2.5332e+10 Convergence factor: 0.196127
+Residual at 0: 2.04012e-09 Residual reduction: 1.29034e+11 Convergence factor: 0.19632
+Total time to solve in 10 steps : 63.1717
+Mean time per vCycle:  4.02301
+Starting residual: 3.00649
+Residual: 6.00184e-05 Residual reduction: 50092.8 Convergence factor: 1.9963e-05
+Residual: 5.36154e-10 Residual reduction: 5.6075e+09 Convergence factor: 8.93317e-06
+Total time to solve in 2 steps : 47.3441
+Mean time per vCycle:  22.9511
+Starting residual at 0 263.266
+Residual at 0: 11.607 Residual reduction: 22.6817 Convergence factor: 0.0440884
+Residual at 0: 0.266033 Residual reduction: 989.599 Convergence factor: 0.0229201
+Residual at 0: 0.00715877 Residual reduction: 36775.3 Convergence factor: 0.0269093
+Residual at 0: 0.000215065 Residual reduction: 1.22412e+06 Convergence factor: 0.0300421
+Residual at 0: 9.80471e-06 Residual reduction: 2.6851e+07 Convergence factor: 0.0455896
+Residual at 0: 1.40364e-06 Residual reduction: 1.87559e+08 Convergence factor: 0.14316
+Residual at 0: 2.69711e-07 Residual reduction: 9.76105e+08 Convergence factor: 0.19215
+Residual at 0: 5.27523e-08 Residual reduction: 4.9906e+09 Convergence factor: 0.195589
+Residual at 0: 1.03435e-08 Residual reduction: 2.54523e+10 Convergence factor: 0.196077
+Residual at 0: 2.0302e-09 Residual reduction: 1.29675e+11 Convergence factor: 0.196278
+Total time to solve in 10 steps : 62.885
+Mean time per vCycle:  3.99916
+Starting residual: 3.00638
+Residual: 6.01283e-05 Residual reduction: 49999.4 Convergence factor: 2.00002e-05
+Residual: 5.37108e-10 Residual reduction: 5.59734e+09 Convergence factor: 8.93271e-06
+Total time to solve in 2 steps : 47.115
+Mean time per vCycle:  22.941
+Starting residual at 0 263.242
+Residual at 0: 11.6068 Residual reduction: 22.6799 Convergence factor: 0.0440919
+Residual at 0: 0.26606 Residual reduction: 989.405 Convergence factor: 0.0229228
+Residual at 0: 0.00716146 Residual reduction: 36758.1 Convergence factor: 0.0269167
+Residual at 0: 0.000215199 Residual reduction: 1.22324e+06 Convergence factor: 0.0300497
+Residual at 0: 9.80932e-06 Residual reduction: 2.68359e+07 Convergence factor: 0.0455825
+Residual at 0: 1.40325e-06 Residual reduction: 1.87595e+08 Convergence factor: 0.143052
+Residual at 0: 2.69584e-07 Residual reduction: 9.76474e+08 Convergence factor: 0.192114
+Residual at 0: 5.27141e-08 Residual reduction: 4.99376e+09 Convergence factor: 0.195539
+Residual at 0: 1.03332e-08 Residual reduction: 2.54753e+10 Convergence factor: 0.196024
+Residual at 0: 2.02759e-09 Residual reduction: 1.2983e+11 Convergence factor: 0.196221
+Total time to solve in 10 steps : 62.8837
+Mean time per vCycle:  4.00077
+Starting residual: 3.00662
+Residual: 6.01178e-05 Residual reduction: 50012.1 Convergence factor: 1.99952e-05
+Residual: 5.38023e-10 Residual reduction: 5.58827e+09 Convergence factor: 8.94948e-06
+Total time to solve in 2 steps : 46.9934
+Mean time per vCycle:  22.8674
+Starting residual at 0 263.241
+Residual at 0: 11.6074 Residual reduction: 22.6787 Convergence factor: 0.0440943
+Residual at 0: 0.26611 Residual reduction: 989.22 Convergence factor: 0.0229258
+Residual at 0: 0.00716277 Residual reduction: 36751.3 Convergence factor: 0.0269166
+Residual at 0: 0.0002152 Residual reduction: 1.22324e+06 Convergence factor: 0.0300443
+Residual at 0: 9.79481e-06 Residual reduction: 2.68756e+07 Convergence factor: 0.0455149
+Residual at 0: 1.39901e-06 Residual reduction: 1.88163e+08 Convergence factor: 0.142831
+Residual at 0: 2.68651e-07 Residual reduction: 9.79864e+08 Convergence factor: 0.19203
+Residual at 0: 5.2515e-08 Residual reduction: 5.01269e+09 Convergence factor: 0.195477
+Residual at 0: 1.02913e-08 Residual reduction: 2.5579e+10 Convergence factor: 0.195969
+Residual at 0: 2.01886e-09 Residual reduction: 1.30391e+11 Convergence factor: 0.196171
+Total time to solve in 10 steps : 62.9337
+Mean time per vCycle:  4.00979
+Starting residual: 3.007
+Residual: 6.01652e-05 Residual reduction: 49979.1 Convergence factor: 2.00084e-05
+Residual: 5.38547e-10 Residual reduction: 5.58354e+09 Convergence factor: 8.95114e-06
+Total time to solve in 2 steps : 47.6097
+Mean time per vCycle:  23.1278
+Starting residual at 0 263.242
+Residual at 0: 11.6047 Residual reduction: 22.6841 Convergence factor: 0.0440837
+Residual at 0: 0.265947 Residual reduction: 989.831 Convergence factor: 0.0229172
+Residual at 0: 0.00715604 Residual reduction: 36786 Convergence factor: 0.0269078
+Residual at 0: 0.000214969 Residual reduction: 1.22456e+06 Convergence factor: 0.0300402
+Residual at 0: 9.81079e-06 Residual reduction: 2.68319e+07 Convergence factor: 0.0456381
+Residual at 0: 1.40566e-06 Residual reduction: 1.87272e+08 Convergence factor: 0.143277
+Residual at 0: 2.70172e-07 Residual reduction: 9.74349e+08 Convergence factor: 0.192203
+Residual at 0: 5.28434e-08 Residual reduction: 4.98155e+09 Convergence factor: 0.195591
+Residual at 0: 1.03611e-08 Residual reduction: 2.54068e+10 Convergence factor: 0.196072
+Residual at 0: 2.03352e-09 Residual reduction: 1.29451e+11 Convergence factor: 0.196265
+Total time to solve in 10 steps : 62.8092
+Mean time per vCycle:  3.99746
+Starting residual: 3.00678
+Residual: 6.00976e-05 Residual reduction: 50031.7 Convergence factor: 1.99873e-05
+Residual: 5.37051e-10 Residual reduction: 5.5987e+09 Convergence factor: 8.93631e-06
+Total time to solve in 2 steps : 47.3277
+Mean time per vCycle:  23.0348
+Starting residual at 0 263.25
+Residual at 0: 11.6067 Residual reduction: 22.681 Convergence factor: 0.0440899
+Residual at 0: 0.266065 Residual reduction: 989.42 Convergence factor: 0.0229235
+Residual at 0: 0.00716089 Residual reduction: 36762.2 Convergence factor: 0.026914
+Residual at 0: 0.000215147 Residual reduction: 1.22359e+06 Convergence factor: 0.0300447
+Residual at 0: 9.81477e-06 Residual reduction: 2.68219e+07 Convergence factor: 0.045619
+Residual at 0: 1.40565e-06 Residual reduction: 1.8728e+08 Convergence factor: 0.143218
+Residual at 0: 2.70136e-07 Residual reduction: 9.7451e+08 Convergence factor: 0.192179
+Residual at 0: 5.28339e-08 Residual reduction: 4.98261e+09 Convergence factor: 0.195582
+Residual at 0: 1.03588e-08 Residual reduction: 2.54131e+10 Convergence factor: 0.196064
+Residual at 0: 2.03304e-09 Residual reduction: 1.29486e+11 Convergence factor: 0.196261
+Total time to solve in 10 steps : 63.3423
+Mean time per vCycle:  4.03623
+Starting residual: 3.00686
+Residual: 6.01016e-05 Residual reduction: 50029.6 Convergence factor: 1.99882e-05
+Residual: 5.37846e-10 Residual reduction: 5.59056e+09 Convergence factor: 8.94894e-06
+Total time to solve in 2 steps : 47.2107
+Mean time per vCycle:  22.9848
+Starting residual at 0 263.261
+Residual at 0: 11.6069 Residual reduction: 22.6815 Convergence factor: 0.0440887
+Residual at 0: 0.266012 Residual reduction: 989.661 Convergence factor: 0.0229185
+Residual at 0: 0.00715817 Residual reduction: 36777.8 Convergence factor: 0.0269092
+Residual at 0: 0.000215053 Residual reduction: 1.22417e+06 Convergence factor: 0.030043
+Residual at 0: 9.82254e-06 Residual reduction: 2.68018e+07 Convergence factor: 0.045675
+Residual at 0: 1.4087e-06 Residual reduction: 1.86883e+08 Convergence factor: 0.143415
+Residual at 0: 2.70868e-07 Residual reduction: 9.71918e+08 Convergence factor: 0.192282
+Residual at 0: 5.29996e-08 Residual reduction: 4.96724e+09 Convergence factor: 0.195666
+Residual at 0: 1.03956e-08 Residual reduction: 2.53244e+10 Convergence factor: 0.196144
+Residual at 0: 2.04104e-09 Residual reduction: 1.28984e+11 Convergence factor: 0.196337
+Total time to solve in 10 steps : 62.8506
+Mean time per vCycle:  3.99793
+Total time to solve:  1463.62
+Mean time per sample:  146.362
+Norm of the solution:  5.33638
+Finished job script on mother superior node i10hpc8...
+Finished user epilogue on all sister nodes...
+Starting user epilogue on mother superior node i10hpc8...
+Exiting user epilogue on mother superior node i10hpc8...

@@ -1,0 +1,20 @@
+
+----------------------- /software/modules/sles/compilers -----------------------
+gcc/4.6.4  gcc/4.7.3  gcc/4.8.0  gcc/4.8.2  gcc/4.9.0  intel/13.1 intel/14.0
+
+----------------------- /software/modules/sles/libraries -----------------------
+boost/1.53                 openmpi/1.6.5-mxm
+cuda/5.5(default)          openmpi/1.8.1-ib
+cuda/6.0                   openmpi/1.8.1-ib-intel14.0
+glpk/4.52                  python/3.3
+lapack/3.5.0               qt/4.8.5
+openmpi/1.6.4              qt/5.1.1
+openmpi/1.6.5              qt/5.2.1
+openmpi/1.6.5-ib(default)  qwt/6.1-qt4.6.3
+openmpi/1.6.5-ib-intel13.1 vtk/6.1.0
+openmpi/1.6.5-ib-intel14.0
+
+------------------------- /software/modules/sles/tools -------------------------
+cmake/2.8.11.1            paraview/4.0.1            scorep/1.2.3
+cube/4.2.2                pdt/3.20                  tau/2.23
+likwid/3.0                scalasca/2.0              waLBerla-dependencies/3.0
