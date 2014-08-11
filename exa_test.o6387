@@ -1,0 +1,422 @@
+Finished user prologue on all sister nodes...
+Starting user prologue on mother superior node i10hpc11...
+Exiting user prologue on mother superior node i10hpc11...
+Starting job script on mother superior node i10hpc11...
+rm -f Domains/DomainGenerated_0.o Globals/Globals_0.o Globals/Globals_1.o Globals/Globals_2.o Globals/Globals_3.o MultiGrid/MultiGrid_0.o MultiGrid/MultiGrid_1.o MultiGrid/MultiGrid_10.o MultiGrid/MultiGrid_100.o MultiGrid/MultiGrid_101.o MultiGrid/MultiGrid_102.o MultiGrid/MultiGrid_103.o MultiGrid/MultiGrid_104.o MultiGrid/MultiGrid_105.o MultiGrid/MultiGrid_106.o MultiGrid/MultiGrid_107.o MultiGrid/MultiGrid_108.o MultiGrid/MultiGrid_109.o MultiGrid/MultiGrid_11.o MultiGrid/MultiGrid_110.o MultiGrid/MultiGrid_111.o MultiGrid/MultiGrid_112.o MultiGrid/MultiGrid_113.o MultiGrid/MultiGrid_114.o MultiGrid/MultiGrid_115.o MultiGrid/MultiGrid_116.o MultiGrid/MultiGrid_117.o MultiGrid/MultiGrid_118.o MultiGrid/MultiGrid_119.o MultiGrid/MultiGrid_12.o MultiGrid/MultiGrid_120.o MultiGrid/MultiGrid_121.o MultiGrid/MultiGrid_122.o MultiGrid/MultiGrid_123.o MultiGrid/MultiGrid_124.o MultiGrid/MultiGrid_125.o MultiGrid/MultiGrid_126.o MultiGrid/MultiGrid_127.o MultiGrid/MultiGrid_128.o MultiGrid/MultiGrid_129.o MultiGrid/MultiGrid_13.o MultiGrid/MultiGrid_130.o MultiGrid/MultiGrid_131.o MultiGrid/MultiGrid_132.o MultiGrid/MultiGrid_133.o MultiGrid/MultiGrid_134.o MultiGrid/MultiGrid_14.o MultiGrid/MultiGrid_15.o MultiGrid/MultiGrid_16.o MultiGrid/MultiGrid_17.o MultiGrid/MultiGrid_18.o MultiGrid/MultiGrid_19.o MultiGrid/MultiGrid_2.o MultiGrid/MultiGrid_20.o MultiGrid/MultiGrid_21.o MultiGrid/MultiGrid_22.o MultiGrid/MultiGrid_23.o MultiGrid/MultiGrid_24.o MultiGrid/MultiGrid_25.o MultiGrid/MultiGrid_26.o MultiGrid/MultiGrid_27.o MultiGrid/MultiGrid_28.o MultiGrid/MultiGrid_29.o MultiGrid/MultiGrid_3.o MultiGrid/MultiGrid_30.o MultiGrid/MultiGrid_31.o MultiGrid/MultiGrid_32.o MultiGrid/MultiGrid_33.o MultiGrid/MultiGrid_34.o MultiGrid/MultiGrid_35.o MultiGrid/MultiGrid_36.o MultiGrid/MultiGrid_37.o MultiGrid/MultiGrid_38.o MultiGrid/MultiGrid_39.o MultiGrid/MultiGrid_4.o MultiGrid/MultiGrid_40.o MultiGrid/MultiGrid_41.o MultiGrid/MultiGrid_42.o MultiGrid/MultiGrid_43.o MultiGrid/MultiGrid_44.o MultiGrid/MultiGrid_45.o MultiGrid/MultiGrid_46.o MultiGrid/MultiGrid_47.o MultiGrid/MultiGrid_48.o MultiGrid/MultiGrid_49.o MultiGrid/MultiGrid_5.o MultiGrid/MultiGrid_50.o MultiGrid/MultiGrid_51.o MultiGrid/MultiGrid_52.o MultiGrid/MultiGrid_53.o MultiGrid/MultiGrid_54.o MultiGrid/MultiGrid_55.o MultiGrid/MultiGrid_56.o MultiGrid/MultiGrid_57.o MultiGrid/MultiGrid_58.o MultiGrid/MultiGrid_59.o MultiGrid/MultiGrid_6.o MultiGrid/MultiGrid_60.o MultiGrid/MultiGrid_61.o MultiGrid/MultiGrid_62.o MultiGrid/MultiGrid_63.o MultiGrid/MultiGrid_64.o MultiGrid/MultiGrid_65.o MultiGrid/MultiGrid_66.o MultiGrid/MultiGrid_67.o MultiGrid/MultiGrid_68.o MultiGrid/MultiGrid_69.o MultiGrid/MultiGrid_7.o MultiGrid/MultiGrid_70.o MultiGrid/MultiGrid_71.o MultiGrid/MultiGrid_72.o MultiGrid/MultiGrid_73.o MultiGrid/MultiGrid_74.o MultiGrid/MultiGrid_75.o MultiGrid/MultiGrid_76.o MultiGrid/MultiGrid_77.o MultiGrid/MultiGrid_78.o MultiGrid/MultiGrid_79.o MultiGrid/MultiGrid_8.o MultiGrid/MultiGrid_80.o MultiGrid/MultiGrid_81.o MultiGrid/MultiGrid_82.o MultiGrid/MultiGrid_83.o MultiGrid/MultiGrid_84.o MultiGrid/MultiGrid_85.o MultiGrid/MultiGrid_86.o MultiGrid/MultiGrid_87.o MultiGrid/MultiGrid_88.o MultiGrid/MultiGrid_89.o MultiGrid/MultiGrid_9.o MultiGrid/MultiGrid_90.o MultiGrid/MultiGrid_91.o MultiGrid/MultiGrid_92.o MultiGrid/MultiGrid_93.o MultiGrid/MultiGrid_94.o MultiGrid/MultiGrid_95.o MultiGrid/MultiGrid_96.o MultiGrid/MultiGrid_97.o MultiGrid/MultiGrid_98.o MultiGrid/MultiGrid_99.o Primitives/CommunicationFunctions_0.o Primitives/CommunicationFunctions_1.o Primitives/CommunicationFunctions_10.o Primitives/CommunicationFunctions_11.o Primitives/CommunicationFunctions_12.o Primitives/CommunicationFunctions_13.o Primitives/CommunicationFunctions_14.o Primitives/CommunicationFunctions_15.o Primitives/CommunicationFunctions_16.o Primitives/CommunicationFunctions_17.o Primitives/CommunicationFunctions_18.o Primitives/CommunicationFunctions_19.o Primitives/CommunicationFunctions_2.o Primitives/CommunicationFunctions_20.o Primitives/CommunicationFunctions_21.o Primitives/CommunicationFunctions_22.o Primitives/CommunicationFunctions_23.o Primitives/CommunicationFunctions_24.o Primitives/CommunicationFunctions_25.o Primitives/CommunicationFunctions_26.o Primitives/CommunicationFunctions_27.o Primitives/CommunicationFunctions_28.o Primitives/CommunicationFunctions_29.o Primitives/CommunicationFunctions_3.o Primitives/CommunicationFunctions_30.o Primitives/CommunicationFunctions_31.o Primitives/CommunicationFunctions_32.o Primitives/CommunicationFunctions_33.o Primitives/CommunicationFunctions_34.o Primitives/CommunicationFunctions_35.o Primitives/CommunicationFunctions_36.o Primitives/CommunicationFunctions_37.o Primitives/CommunicationFunctions_38.o Primitives/CommunicationFunctions_39.o Primitives/CommunicationFunctions_4.o Primitives/CommunicationFunctions_40.o Primitives/CommunicationFunctions_41.o Primitives/CommunicationFunctions_42.o Primitives/CommunicationFunctions_43.o Primitives/CommunicationFunctions_44.o Primitives/CommunicationFunctions_45.o Primitives/CommunicationFunctions_46.o Primitives/CommunicationFunctions_47.o Primitives/CommunicationFunctions_48.o Primitives/CommunicationFunctions_49.o Primitives/CommunicationFunctions_5.o Primitives/CommunicationFunctions_50.o Primitives/CommunicationFunctions_51.o Primitives/CommunicationFunctions_52.o Primitives/CommunicationFunctions_53.o Primitives/CommunicationFunctions_54.o Primitives/CommunicationFunctions_55.o Primitives/CommunicationFunctions_56.o Primitives/CommunicationFunctions_57.o Primitives/CommunicationFunctions_58.o Primitives/CommunicationFunctions_59.o Primitives/CommunicationFunctions_6.o Primitives/CommunicationFunctions_60.o Primitives/CommunicationFunctions_61.o Primitives/CommunicationFunctions_62.o Primitives/CommunicationFunctions_63.o Primitives/CommunicationFunctions_64.o Primitives/CommunicationFunctions_65.o Primitives/CommunicationFunctions_66.o Primitives/CommunicationFunctions_67.o Primitives/CommunicationFunctions_68.o Primitives/CommunicationFunctions_69.o Primitives/CommunicationFunctions_7.o Primitives/CommunicationFunctions_70.o Primitives/CommunicationFunctions_71.o Primitives/CommunicationFunctions_72.o Primitives/CommunicationFunctions_73.o Primitives/CommunicationFunctions_74.o Primitives/CommunicationFunctions_75.o Primitives/CommunicationFunctions_76.o Primitives/CommunicationFunctions_77.o Primitives/CommunicationFunctions_78.o Primitives/CommunicationFunctions_79.o Primitives/CommunicationFunctions_8.o Primitives/CommunicationFunctions_80.o Primitives/CommunicationFunctions_81.o Primitives/CommunicationFunctions_82.o Primitives/CommunicationFunctions_83.o Primitives/CommunicationFunctions_84.o Primitives/CommunicationFunctions_85.o Primitives/CommunicationFunctions_86.o Primitives/CommunicationFunctions_9.o Util/Gamma.o exastencils
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Domains/DomainGenerated_0.o -I. Domains/DomainGenerated_0.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Globals/Globals_0.o -I. Globals/Globals_0.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Globals/Globals_1.o -I. Globals/Globals_1.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Globals/Globals_2.o -I. Globals/Globals_2.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Globals/Globals_3.o -I. Globals/Globals_3.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_0.o -I. MultiGrid/MultiGrid_0.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_1.o -I. MultiGrid/MultiGrid_1.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_10.o -I. MultiGrid/MultiGrid_10.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_100.o -I. MultiGrid/MultiGrid_100.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_101.o -I. MultiGrid/MultiGrid_101.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_102.o -I. MultiGrid/MultiGrid_102.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_103.o -I. MultiGrid/MultiGrid_103.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_104.o -I. MultiGrid/MultiGrid_104.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_105.o -I. MultiGrid/MultiGrid_105.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_106.o -I. MultiGrid/MultiGrid_106.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_107.o -I. MultiGrid/MultiGrid_107.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_108.o -I. MultiGrid/MultiGrid_108.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_109.o -I. MultiGrid/MultiGrid_109.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_11.o -I. MultiGrid/MultiGrid_11.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_110.o -I. MultiGrid/MultiGrid_110.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_111.o -I. MultiGrid/MultiGrid_111.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_112.o -I. MultiGrid/MultiGrid_112.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_113.o -I. MultiGrid/MultiGrid_113.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_114.o -I. MultiGrid/MultiGrid_114.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_115.o -I. MultiGrid/MultiGrid_115.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_116.o -I. MultiGrid/MultiGrid_116.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_117.o -I. MultiGrid/MultiGrid_117.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_118.o -I. MultiGrid/MultiGrid_118.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_119.o -I. MultiGrid/MultiGrid_119.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_12.o -I. MultiGrid/MultiGrid_12.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_120.o -I. MultiGrid/MultiGrid_120.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_121.o -I. MultiGrid/MultiGrid_121.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_122.o -I. MultiGrid/MultiGrid_122.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_123.o -I. MultiGrid/MultiGrid_123.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_124.o -I. MultiGrid/MultiGrid_124.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_125.o -I. MultiGrid/MultiGrid_125.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_126.o -I. MultiGrid/MultiGrid_126.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_127.o -I. MultiGrid/MultiGrid_127.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_128.o -I. MultiGrid/MultiGrid_128.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_129.o -I. MultiGrid/MultiGrid_129.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_13.o -I. MultiGrid/MultiGrid_13.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_130.o -I. MultiGrid/MultiGrid_130.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_131.o -I. MultiGrid/MultiGrid_131.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_132.o -I. MultiGrid/MultiGrid_132.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_133.o -I. MultiGrid/MultiGrid_133.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_134.o -I. MultiGrid/MultiGrid_134.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_14.o -I. MultiGrid/MultiGrid_14.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_15.o -I. MultiGrid/MultiGrid_15.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_16.o -I. MultiGrid/MultiGrid_16.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_17.o -I. MultiGrid/MultiGrid_17.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_18.o -I. MultiGrid/MultiGrid_18.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_19.o -I. MultiGrid/MultiGrid_19.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_2.o -I. MultiGrid/MultiGrid_2.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_20.o -I. MultiGrid/MultiGrid_20.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_21.o -I. MultiGrid/MultiGrid_21.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_22.o -I. MultiGrid/MultiGrid_22.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_23.o -I. MultiGrid/MultiGrid_23.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_24.o -I. MultiGrid/MultiGrid_24.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_25.o -I. MultiGrid/MultiGrid_25.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_26.o -I. MultiGrid/MultiGrid_26.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_27.o -I. MultiGrid/MultiGrid_27.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_28.o -I. MultiGrid/MultiGrid_28.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_29.o -I. MultiGrid/MultiGrid_29.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_3.o -I. MultiGrid/MultiGrid_3.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_30.o -I. MultiGrid/MultiGrid_30.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_31.o -I. MultiGrid/MultiGrid_31.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_32.o -I. MultiGrid/MultiGrid_32.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_33.o -I. MultiGrid/MultiGrid_33.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_34.o -I. MultiGrid/MultiGrid_34.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_35.o -I. MultiGrid/MultiGrid_35.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_36.o -I. MultiGrid/MultiGrid_36.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_37.o -I. MultiGrid/MultiGrid_37.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_38.o -I. MultiGrid/MultiGrid_38.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_39.o -I. MultiGrid/MultiGrid_39.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_4.o -I. MultiGrid/MultiGrid_4.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_40.o -I. MultiGrid/MultiGrid_40.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_41.o -I. MultiGrid/MultiGrid_41.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_42.o -I. MultiGrid/MultiGrid_42.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_43.o -I. MultiGrid/MultiGrid_43.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_44.o -I. MultiGrid/MultiGrid_44.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_45.o -I. MultiGrid/MultiGrid_45.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_46.o -I. MultiGrid/MultiGrid_46.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_47.o -I. MultiGrid/MultiGrid_47.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_48.o -I. MultiGrid/MultiGrid_48.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_49.o -I. MultiGrid/MultiGrid_49.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_5.o -I. MultiGrid/MultiGrid_5.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_50.o -I. MultiGrid/MultiGrid_50.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_51.o -I. MultiGrid/MultiGrid_51.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_52.o -I. MultiGrid/MultiGrid_52.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_53.o -I. MultiGrid/MultiGrid_53.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_54.o -I. MultiGrid/MultiGrid_54.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_55.o -I. MultiGrid/MultiGrid_55.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_56.o -I. MultiGrid/MultiGrid_56.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_57.o -I. MultiGrid/MultiGrid_57.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_58.o -I. MultiGrid/MultiGrid_58.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_59.o -I. MultiGrid/MultiGrid_59.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_6.o -I. MultiGrid/MultiGrid_6.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_60.o -I. MultiGrid/MultiGrid_60.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_61.o -I. MultiGrid/MultiGrid_61.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_62.o -I. MultiGrid/MultiGrid_62.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_63.o -I. MultiGrid/MultiGrid_63.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_64.o -I. MultiGrid/MultiGrid_64.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_65.o -I. MultiGrid/MultiGrid_65.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_66.o -I. MultiGrid/MultiGrid_66.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_67.o -I. MultiGrid/MultiGrid_67.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_68.o -I. MultiGrid/MultiGrid_68.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_69.o -I. MultiGrid/MultiGrid_69.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_7.o -I. MultiGrid/MultiGrid_7.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_70.o -I. MultiGrid/MultiGrid_70.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_71.o -I. MultiGrid/MultiGrid_71.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_72.o -I. MultiGrid/MultiGrid_72.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_73.o -I. MultiGrid/MultiGrid_73.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_74.o -I. MultiGrid/MultiGrid_74.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_75.o -I. MultiGrid/MultiGrid_75.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_76.o -I. MultiGrid/MultiGrid_76.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_77.o -I. MultiGrid/MultiGrid_77.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_78.o -I. MultiGrid/MultiGrid_78.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_79.o -I. MultiGrid/MultiGrid_79.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_8.o -I. MultiGrid/MultiGrid_8.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_80.o -I. MultiGrid/MultiGrid_80.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_81.o -I. MultiGrid/MultiGrid_81.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_82.o -I. MultiGrid/MultiGrid_82.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_83.o -I. MultiGrid/MultiGrid_83.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_84.o -I. MultiGrid/MultiGrid_84.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_85.o -I. MultiGrid/MultiGrid_85.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_86.o -I. MultiGrid/MultiGrid_86.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_87.o -I. MultiGrid/MultiGrid_87.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_88.o -I. MultiGrid/MultiGrid_88.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_89.o -I. MultiGrid/MultiGrid_89.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_9.o -I. MultiGrid/MultiGrid_9.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_90.o -I. MultiGrid/MultiGrid_90.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_91.o -I. MultiGrid/MultiGrid_91.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_92.o -I. MultiGrid/MultiGrid_92.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_93.o -I. MultiGrid/MultiGrid_93.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_94.o -I. MultiGrid/MultiGrid_94.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_95.o -I. MultiGrid/MultiGrid_95.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_96.o -I. MultiGrid/MultiGrid_96.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_97.o -I. MultiGrid/MultiGrid_97.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_98.o -I. MultiGrid/MultiGrid_98.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o MultiGrid/MultiGrid_99.o -I. MultiGrid/MultiGrid_99.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_0.o -I. Primitives/CommunicationFunctions_0.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_1.o -I. Primitives/CommunicationFunctions_1.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_10.o -I. Primitives/CommunicationFunctions_10.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_11.o -I. Primitives/CommunicationFunctions_11.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_12.o -I. Primitives/CommunicationFunctions_12.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_13.o -I. Primitives/CommunicationFunctions_13.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_14.o -I. Primitives/CommunicationFunctions_14.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_15.o -I. Primitives/CommunicationFunctions_15.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_16.o -I. Primitives/CommunicationFunctions_16.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_17.o -I. Primitives/CommunicationFunctions_17.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_18.o -I. Primitives/CommunicationFunctions_18.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_19.o -I. Primitives/CommunicationFunctions_19.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_2.o -I. Primitives/CommunicationFunctions_2.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_20.o -I. Primitives/CommunicationFunctions_20.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_21.o -I. Primitives/CommunicationFunctions_21.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_22.o -I. Primitives/CommunicationFunctions_22.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_23.o -I. Primitives/CommunicationFunctions_23.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_24.o -I. Primitives/CommunicationFunctions_24.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_25.o -I. Primitives/CommunicationFunctions_25.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_26.o -I. Primitives/CommunicationFunctions_26.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_27.o -I. Primitives/CommunicationFunctions_27.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_28.o -I. Primitives/CommunicationFunctions_28.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_29.o -I. Primitives/CommunicationFunctions_29.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_3.o -I. Primitives/CommunicationFunctions_3.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_30.o -I. Primitives/CommunicationFunctions_30.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_31.o -I. Primitives/CommunicationFunctions_31.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_32.o -I. Primitives/CommunicationFunctions_32.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_33.o -I. Primitives/CommunicationFunctions_33.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_34.o -I. Primitives/CommunicationFunctions_34.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_35.o -I. Primitives/CommunicationFunctions_35.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_36.o -I. Primitives/CommunicationFunctions_36.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_37.o -I. Primitives/CommunicationFunctions_37.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_38.o -I. Primitives/CommunicationFunctions_38.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_39.o -I. Primitives/CommunicationFunctions_39.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_4.o -I. Primitives/CommunicationFunctions_4.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_40.o -I. Primitives/CommunicationFunctions_40.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_41.o -I. Primitives/CommunicationFunctions_41.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_42.o -I. Primitives/CommunicationFunctions_42.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_43.o -I. Primitives/CommunicationFunctions_43.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_44.o -I. Primitives/CommunicationFunctions_44.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_45.o -I. Primitives/CommunicationFunctions_45.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_46.o -I. Primitives/CommunicationFunctions_46.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_47.o -I. Primitives/CommunicationFunctions_47.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_48.o -I. Primitives/CommunicationFunctions_48.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_49.o -I. Primitives/CommunicationFunctions_49.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_5.o -I. Primitives/CommunicationFunctions_5.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_50.o -I. Primitives/CommunicationFunctions_50.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_51.o -I. Primitives/CommunicationFunctions_51.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_52.o -I. Primitives/CommunicationFunctions_52.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_53.o -I. Primitives/CommunicationFunctions_53.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_54.o -I. Primitives/CommunicationFunctions_54.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_55.o -I. Primitives/CommunicationFunctions_55.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_56.o -I. Primitives/CommunicationFunctions_56.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_57.o -I. Primitives/CommunicationFunctions_57.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_58.o -I. Primitives/CommunicationFunctions_58.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_59.o -I. Primitives/CommunicationFunctions_59.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_6.o -I. Primitives/CommunicationFunctions_6.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_60.o -I. Primitives/CommunicationFunctions_60.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_61.o -I. Primitives/CommunicationFunctions_61.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_62.o -I. Primitives/CommunicationFunctions_62.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_63.o -I. Primitives/CommunicationFunctions_63.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_64.o -I. Primitives/CommunicationFunctions_64.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_65.o -I. Primitives/CommunicationFunctions_65.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_66.o -I. Primitives/CommunicationFunctions_66.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_67.o -I. Primitives/CommunicationFunctions_67.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_68.o -I. Primitives/CommunicationFunctions_68.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_69.o -I. Primitives/CommunicationFunctions_69.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_7.o -I. Primitives/CommunicationFunctions_7.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_70.o -I. Primitives/CommunicationFunctions_70.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_71.o -I. Primitives/CommunicationFunctions_71.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_72.o -I. Primitives/CommunicationFunctions_72.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_73.o -I. Primitives/CommunicationFunctions_73.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_74.o -I. Primitives/CommunicationFunctions_74.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_75.o -I. Primitives/CommunicationFunctions_75.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_76.o -I. Primitives/CommunicationFunctions_76.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_77.o -I. Primitives/CommunicationFunctions_77.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_78.o -I. Primitives/CommunicationFunctions_78.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_79.o -I. Primitives/CommunicationFunctions_79.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_8.o -I. Primitives/CommunicationFunctions_8.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_80.o -I. Primitives/CommunicationFunctions_80.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_81.o -I. Primitives/CommunicationFunctions_81.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_82.o -I. Primitives/CommunicationFunctions_82.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_83.o -I. Primitives/CommunicationFunctions_83.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_84.o -I. Primitives/CommunicationFunctions_84.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_85.o -I. Primitives/CommunicationFunctions_85.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_86.o -I. Primitives/CommunicationFunctions_86.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Primitives/CommunicationFunctions_9.o -I. Primitives/CommunicationFunctions_9.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -c -o Util/Gamma.o -I. Util/Gamma.cpp
+mpicxx -O3 -march=native -DNDEBUG -std=c++11  -o exastencils -I. Domains/DomainGenerated_0.o Globals/Globals_0.o Globals/Globals_1.o Globals/Globals_2.o Globals/Globals_3.o MultiGrid/MultiGrid_0.o MultiGrid/MultiGrid_1.o MultiGrid/MultiGrid_10.o MultiGrid/MultiGrid_100.o MultiGrid/MultiGrid_101.o MultiGrid/MultiGrid_102.o MultiGrid/MultiGrid_103.o MultiGrid/MultiGrid_104.o MultiGrid/MultiGrid_105.o MultiGrid/MultiGrid_106.o MultiGrid/MultiGrid_107.o MultiGrid/MultiGrid_108.o MultiGrid/MultiGrid_109.o MultiGrid/MultiGrid_11.o MultiGrid/MultiGrid_110.o MultiGrid/MultiGrid_111.o MultiGrid/MultiGrid_112.o MultiGrid/MultiGrid_113.o MultiGrid/MultiGrid_114.o MultiGrid/MultiGrid_115.o MultiGrid/MultiGrid_116.o MultiGrid/MultiGrid_117.o MultiGrid/MultiGrid_118.o MultiGrid/MultiGrid_119.o MultiGrid/MultiGrid_12.o MultiGrid/MultiGrid_120.o MultiGrid/MultiGrid_121.o MultiGrid/MultiGrid_122.o MultiGrid/MultiGrid_123.o MultiGrid/MultiGrid_124.o MultiGrid/MultiGrid_125.o MultiGrid/MultiGrid_126.o MultiGrid/MultiGrid_127.o MultiGrid/MultiGrid_128.o MultiGrid/MultiGrid_129.o MultiGrid/MultiGrid_13.o MultiGrid/MultiGrid_130.o MultiGrid/MultiGrid_131.o MultiGrid/MultiGrid_132.o MultiGrid/MultiGrid_133.o MultiGrid/MultiGrid_134.o MultiGrid/MultiGrid_14.o MultiGrid/MultiGrid_15.o MultiGrid/MultiGrid_16.o MultiGrid/MultiGrid_17.o MultiGrid/MultiGrid_18.o MultiGrid/MultiGrid_19.o MultiGrid/MultiGrid_2.o MultiGrid/MultiGrid_20.o MultiGrid/MultiGrid_21.o MultiGrid/MultiGrid_22.o MultiGrid/MultiGrid_23.o MultiGrid/MultiGrid_24.o MultiGrid/MultiGrid_25.o MultiGrid/MultiGrid_26.o MultiGrid/MultiGrid_27.o MultiGrid/MultiGrid_28.o MultiGrid/MultiGrid_29.o MultiGrid/MultiGrid_3.o MultiGrid/MultiGrid_30.o MultiGrid/MultiGrid_31.o MultiGrid/MultiGrid_32.o MultiGrid/MultiGrid_33.o MultiGrid/MultiGrid_34.o MultiGrid/MultiGrid_35.o MultiGrid/MultiGrid_36.o MultiGrid/MultiGrid_37.o MultiGrid/MultiGrid_38.o MultiGrid/MultiGrid_39.o MultiGrid/MultiGrid_4.o MultiGrid/MultiGrid_40.o MultiGrid/MultiGrid_41.o MultiGrid/MultiGrid_42.o MultiGrid/MultiGrid_43.o MultiGrid/MultiGrid_44.o MultiGrid/MultiGrid_45.o MultiGrid/MultiGrid_46.o MultiGrid/MultiGrid_47.o MultiGrid/MultiGrid_48.o MultiGrid/MultiGrid_49.o MultiGrid/MultiGrid_5.o MultiGrid/MultiGrid_50.o MultiGrid/MultiGrid_51.o MultiGrid/MultiGrid_52.o MultiGrid/MultiGrid_53.o MultiGrid/MultiGrid_54.o MultiGrid/MultiGrid_55.o MultiGrid/MultiGrid_56.o MultiGrid/MultiGrid_57.o MultiGrid/MultiGrid_58.o MultiGrid/MultiGrid_59.o MultiGrid/MultiGrid_6.o MultiGrid/MultiGrid_60.o MultiGrid/MultiGrid_61.o MultiGrid/MultiGrid_62.o MultiGrid/MultiGrid_63.o MultiGrid/MultiGrid_64.o MultiGrid/MultiGrid_65.o MultiGrid/MultiGrid_66.o MultiGrid/MultiGrid_67.o MultiGrid/MultiGrid_68.o MultiGrid/MultiGrid_69.o MultiGrid/MultiGrid_7.o MultiGrid/MultiGrid_70.o MultiGrid/MultiGrid_71.o MultiGrid/MultiGrid_72.o MultiGrid/MultiGrid_73.o MultiGrid/MultiGrid_74.o MultiGrid/MultiGrid_75.o MultiGrid/MultiGrid_76.o MultiGrid/MultiGrid_77.o MultiGrid/MultiGrid_78.o MultiGrid/MultiGrid_79.o MultiGrid/MultiGrid_8.o MultiGrid/MultiGrid_80.o MultiGrid/MultiGrid_81.o MultiGrid/MultiGrid_82.o MultiGrid/MultiGrid_83.o MultiGrid/MultiGrid_84.o MultiGrid/MultiGrid_85.o MultiGrid/MultiGrid_86.o MultiGrid/MultiGrid_87.o MultiGrid/MultiGrid_88.o MultiGrid/MultiGrid_89.o MultiGrid/MultiGrid_9.o MultiGrid/MultiGrid_90.o MultiGrid/MultiGrid_91.o MultiGrid/MultiGrid_92.o MultiGrid/MultiGrid_93.o MultiGrid/MultiGrid_94.o MultiGrid/MultiGrid_95.o MultiGrid/MultiGrid_96.o MultiGrid/MultiGrid_97.o MultiGrid/MultiGrid_98.o MultiGrid/MultiGrid_99.o Primitives/CommunicationFunctions_0.o Primitives/CommunicationFunctions_1.o Primitives/CommunicationFunctions_10.o Primitives/CommunicationFunctions_11.o Primitives/CommunicationFunctions_12.o Primitives/CommunicationFunctions_13.o Primitives/CommunicationFunctions_14.o Primitives/CommunicationFunctions_15.o Primitives/CommunicationFunctions_16.o Primitives/CommunicationFunctions_17.o Primitives/CommunicationFunctions_18.o Primitives/CommunicationFunctions_19.o Primitives/CommunicationFunctions_2.o Primitives/CommunicationFunctions_20.o Primitives/CommunicationFunctions_21.o Primitives/CommunicationFunctions_22.o Primitives/CommunicationFunctions_23.o Primitives/CommunicationFunctions_24.o Primitives/CommunicationFunctions_25.o Primitives/CommunicationFunctions_26.o Primitives/CommunicationFunctions_27.o Primitives/CommunicationFunctions_28.o Primitives/CommunicationFunctions_29.o Primitives/CommunicationFunctions_3.o Primitives/CommunicationFunctions_30.o Primitives/CommunicationFunctions_31.o Primitives/CommunicationFunctions_32.o Primitives/CommunicationFunctions_33.o Primitives/CommunicationFunctions_34.o Primitives/CommunicationFunctions_35.o Primitives/CommunicationFunctions_36.o Primitives/CommunicationFunctions_37.o Primitives/CommunicationFunctions_38.o Primitives/CommunicationFunctions_39.o Primitives/CommunicationFunctions_4.o Primitives/CommunicationFunctions_40.o Primitives/CommunicationFunctions_41.o Primitives/CommunicationFunctions_42.o Primitives/CommunicationFunctions_43.o Primitives/CommunicationFunctions_44.o Primitives/CommunicationFunctions_45.o Primitives/CommunicationFunctions_46.o Primitives/CommunicationFunctions_47.o Primitives/CommunicationFunctions_48.o Primitives/CommunicationFunctions_49.o Primitives/CommunicationFunctions_5.o Primitives/CommunicationFunctions_50.o Primitives/CommunicationFunctions_51.o Primitives/CommunicationFunctions_52.o Primitives/CommunicationFunctions_53.o Primitives/CommunicationFunctions_54.o Primitives/CommunicationFunctions_55.o Primitives/CommunicationFunctions_56.o Primitives/CommunicationFunctions_57.o Primitives/CommunicationFunctions_58.o Primitives/CommunicationFunctions_59.o Primitives/CommunicationFunctions_6.o Primitives/CommunicationFunctions_60.o Primitives/CommunicationFunctions_61.o Primitives/CommunicationFunctions_62.o Primitives/CommunicationFunctions_63.o Primitives/CommunicationFunctions_64.o Primitives/CommunicationFunctions_65.o Primitives/CommunicationFunctions_66.o Primitives/CommunicationFunctions_67.o Primitives/CommunicationFunctions_68.o Primitives/CommunicationFunctions_69.o Primitives/CommunicationFunctions_7.o Primitives/CommunicationFunctions_70.o Primitives/CommunicationFunctions_71.o Primitives/CommunicationFunctions_72.o Primitives/CommunicationFunctions_73.o Primitives/CommunicationFunctions_74.o Primitives/CommunicationFunctions_75.o Primitives/CommunicationFunctions_76.o Primitives/CommunicationFunctions_77.o Primitives/CommunicationFunctions_78.o Primitives/CommunicationFunctions_79.o Primitives/CommunicationFunctions_8.o Primitives/CommunicationFunctions_80.o Primitives/CommunicationFunctions_81.o Primitives/CommunicationFunctions_82.o Primitives/CommunicationFunctions_83.o Primitives/CommunicationFunctions_84.o Primitives/CommunicationFunctions_85.o Primitives/CommunicationFunctions_86.o Primitives/CommunicationFunctions_9.o Util/Gamma.o 
+Total time to setup:  7.40194
+Starting residual: 3.00776
+Residual: 6.00635e-05 Residual reduction: 50076.4 Convergence factor: 1.99695e-05
+Residual: 5.37459e-10 Residual reduction: 5.59626e+09 Convergence factor: 8.94819e-06
+Total time to solve in 2 steps : 62.0444
+Mean time per vCycle:  28.9811
+Starting residual at 0 263.256
+Residual at 0: 11.6088 Residual reduction: 22.6773 Convergence factor: 0.0440969
+Residual at 0: 0.266171 Residual reduction: 989.048 Convergence factor: 0.0229284
+Residual at 0: 0.00716464 Residual reduction: 36743.8 Convergence factor: 0.0269174
+Residual at 0: 0.000215268 Residual reduction: 1.22292e+06 Convergence factor: 0.0300459
+Residual at 0: 9.81486e-06 Residual reduction: 2.68222e+07 Convergence factor: 0.0455937
+Residual at 0: 1.40555e-06 Residual reduction: 1.87298e+08 Convergence factor: 0.143206
+Residual at 0: 2.7013e-07 Residual reduction: 9.74554e+08 Convergence factor: 0.192189
+Residual at 0: 5.28382e-08 Residual reduction: 4.98231e+09 Convergence factor: 0.195603
+Residual at 0: 1.03607e-08 Residual reduction: 2.54091e+10 Convergence factor: 0.196084
+Residual at 0: 2.03359e-09 Residual reduction: 1.29454e+11 Convergence factor: 0.196279
+Total time to solve in 10 steps : 63.1199
+Mean time per vCycle:  4.02079
+Starting residual: 3.00772
+Residual: 6.00904e-05 Residual reduction: 50053.2 Convergence factor: 1.99787e-05
+Residual: 5.37192e-10 Residual reduction: 5.59896e+09 Convergence factor: 8.93973e-06
+Total time to solve in 2 steps : 48.3613
+Mean time per vCycle:  23.5419
+Starting residual at 0 263.242
+Residual at 0: 11.6078 Residual reduction: 22.6779 Convergence factor: 0.0440958
+Residual at 0: 0.266104 Residual reduction: 989.242 Convergence factor: 0.0229245
+Residual at 0: 0.00716175 Residual reduction: 36756.6 Convergence factor: 0.0269133
+Residual at 0: 0.000215158 Residual reduction: 1.22348e+06 Convergence factor: 0.0300426
+Residual at 0: 9.80866e-06 Residual reduction: 2.68377e+07 Convergence factor: 0.0455883
+Residual at 0: 1.40394e-06 Residual reduction: 1.87502e+08 Convergence factor: 0.143133
+Residual at 0: 2.69805e-07 Residual reduction: 9.75673e+08 Convergence factor: 0.192177
+Residual at 0: 5.27734e-08 Residual reduction: 4.98815e+09 Convergence factor: 0.195598
+Residual at 0: 1.03482e-08 Residual reduction: 2.54384e+10 Convergence factor: 0.196087
+Residual at 0: 2.03121e-09 Residual reduction: 1.29598e+11 Convergence factor: 0.196286
+Total time to solve in 10 steps : 62.9467
+Mean time per vCycle:  4.00498
+Starting residual: 3.00759
+Residual: 6.00788e-05 Residual reduction: 50060.9 Convergence factor: 1.99757e-05
+Residual: 5.36512e-10 Residual reduction: 5.60583e+09 Convergence factor: 8.93015e-06
+Total time to solve in 2 steps : 48.013
+Mean time per vCycle:  23.4852
+Starting residual at 0 263.213
+Residual at 0: 11.6073 Residual reduction: 22.6765 Convergence factor: 0.0440986
+Residual at 0: 0.266178 Residual reduction: 988.86 Convergence factor: 0.0229319
+Residual at 0: 0.0071668 Residual reduction: 36726.7 Convergence factor: 0.0269248
+Residual at 0: 0.000215379 Residual reduction: 1.22209e+06 Convergence factor: 0.0300523
+Residual at 0: 9.81724e-06 Residual reduction: 2.68113e+07 Convergence factor: 0.0455813
+Residual at 0: 1.4043e-06 Residual reduction: 1.87434e+08 Convergence factor: 0.143044
+Residual at 0: 2.69872e-07 Residual reduction: 9.75326e+08 Convergence factor: 0.192176
+Residual at 0: 5.27836e-08 Residual reduction: 4.98664e+09 Convergence factor: 0.195588
+Residual at 0: 1.03495e-08 Residual reduction: 2.54324e+10 Convergence factor: 0.196074
+Residual at 0: 2.0313e-09 Residual reduction: 1.29579e+11 Convergence factor: 0.19627
+Total time to solve in 10 steps : 62.9539
+Mean time per vCycle:  4.00687
+Starting residual: 3.00732
+Residual: 6.00589e-05 Residual reduction: 50072.8 Convergence factor: 1.99709e-05
+Residual: 5.37185e-10 Residual reduction: 5.59829e+09 Convergence factor: 8.94431e-06
+Total time to solve in 2 steps : 48.2459
+Mean time per vCycle:  23.4895
+Starting residual at 0 263.245
+Residual at 0: 11.6038 Residual reduction: 22.6862 Convergence factor: 0.0440797
+Residual at 0: 0.26593 Residual reduction: 989.905 Convergence factor: 0.0229175
+Residual at 0: 0.00715686 Residual reduction: 36782.2 Convergence factor: 0.0269126
+Residual at 0: 0.000215063 Residual reduction: 1.22404e+06 Convergence factor: 0.0300499
+Residual at 0: 9.82227e-06 Residual reduction: 2.68008e+07 Convergence factor: 0.0456716
+Residual at 0: 1.40867e-06 Residual reduction: 1.86875e+08 Convergence factor: 0.143416
+Residual at 0: 2.70818e-07 Residual reduction: 9.72038e+08 Convergence factor: 0.19225
+Residual at 0: 5.29851e-08 Residual reduction: 4.96828e+09 Convergence factor: 0.195649
+Residual at 0: 1.03918e-08 Residual reduction: 2.5332e+10 Convergence factor: 0.196127
+Residual at 0: 2.04012e-09 Residual reduction: 1.29034e+11 Convergence factor: 0.19632
+Total time to solve in 10 steps : 63.0107
+Mean time per vCycle:  4.00871
+Starting residual: 3.00649
+Residual: 6.00184e-05 Residual reduction: 50092.8 Convergence factor: 1.9963e-05
+Residual: 5.36154e-10 Residual reduction: 5.6075e+09 Convergence factor: 8.93317e-06
+Total time to solve in 2 steps : 48.3264
+Mean time per vCycle:  23.4973
+Starting residual at 0 263.266
+Residual at 0: 11.607 Residual reduction: 22.6817 Convergence factor: 0.0440884
+Residual at 0: 0.266033 Residual reduction: 989.599 Convergence factor: 0.0229201
+Residual at 0: 0.00715877 Residual reduction: 36775.3 Convergence factor: 0.0269093
+Residual at 0: 0.000215065 Residual reduction: 1.22412e+06 Convergence factor: 0.0300421
+Residual at 0: 9.80471e-06 Residual reduction: 2.6851e+07 Convergence factor: 0.0455896
+Residual at 0: 1.40364e-06 Residual reduction: 1.87559e+08 Convergence factor: 0.14316
+Residual at 0: 2.69711e-07 Residual reduction: 9.76105e+08 Convergence factor: 0.19215
+Residual at 0: 5.27523e-08 Residual reduction: 4.9906e+09 Convergence factor: 0.195589
+Residual at 0: 1.03435e-08 Residual reduction: 2.54523e+10 Convergence factor: 0.196077
+Residual at 0: 2.0302e-09 Residual reduction: 1.29675e+11 Convergence factor: 0.196278
+Total time to solve in 10 steps : 63.063
+Mean time per vCycle:  4.01613
+Starting residual: 3.00638
+Residual: 6.01283e-05 Residual reduction: 49999.4 Convergence factor: 2.00002e-05
+Residual: 5.37108e-10 Residual reduction: 5.59734e+09 Convergence factor: 8.93271e-06
+Total time to solve in 2 steps : 47.9233
+Mean time per vCycle:  23.4188
+Starting residual at 0 263.242
+Residual at 0: 11.6068 Residual reduction: 22.6799 Convergence factor: 0.0440919
+Residual at 0: 0.26606 Residual reduction: 989.405 Convergence factor: 0.0229228
+Residual at 0: 0.00716146 Residual reduction: 36758.1 Convergence factor: 0.0269167
+Residual at 0: 0.000215199 Residual reduction: 1.22324e+06 Convergence factor: 0.0300497
+Residual at 0: 9.80932e-06 Residual reduction: 2.68359e+07 Convergence factor: 0.0455825
+Residual at 0: 1.40325e-06 Residual reduction: 1.87595e+08 Convergence factor: 0.143052
+Residual at 0: 2.69584e-07 Residual reduction: 9.76474e+08 Convergence factor: 0.192114
+Residual at 0: 5.27141e-08 Residual reduction: 4.99376e+09 Convergence factor: 0.195539
+Residual at 0: 1.03332e-08 Residual reduction: 2.54753e+10 Convergence factor: 0.196024
+Residual at 0: 2.02759e-09 Residual reduction: 1.2983e+11 Convergence factor: 0.196221
+Total time to solve in 10 steps : 62.86
+Mean time per vCycle:  3.99912
+Starting residual: 3.00662
+Residual: 6.01178e-05 Residual reduction: 50012.1 Convergence factor: 1.99952e-05
+Residual: 5.38023e-10 Residual reduction: 5.58827e+09 Convergence factor: 8.94948e-06
+Total time to solve in 2 steps : 48.0356
+Mean time per vCycle:  23.3636
+Starting residual at 0 263.241
+Residual at 0: 11.6074 Residual reduction: 22.6787 Convergence factor: 0.0440943
+Residual at 0: 0.26611 Residual reduction: 989.22 Convergence factor: 0.0229258
+Residual at 0: 0.00716277 Residual reduction: 36751.3 Convergence factor: 0.0269166
+Residual at 0: 0.0002152 Residual reduction: 1.22324e+06 Convergence factor: 0.0300443
+Residual at 0: 9.79481e-06 Residual reduction: 2.68756e+07 Convergence factor: 0.0455149
+Residual at 0: 1.39901e-06 Residual reduction: 1.88163e+08 Convergence factor: 0.142831
+Residual at 0: 2.68651e-07 Residual reduction: 9.79864e+08 Convergence factor: 0.19203
+Residual at 0: 5.2515e-08 Residual reduction: 5.01269e+09 Convergence factor: 0.195477
+Residual at 0: 1.02913e-08 Residual reduction: 2.5579e+10 Convergence factor: 0.195969
+Residual at 0: 2.01886e-09 Residual reduction: 1.30391e+11 Convergence factor: 0.196171
+Total time to solve in 10 steps : 62.8774
+Mean time per vCycle:  4.0022
+Starting residual: 3.007
+Residual: 6.01652e-05 Residual reduction: 49979.1 Convergence factor: 2.00084e-05
+Residual: 5.38547e-10 Residual reduction: 5.58354e+09 Convergence factor: 8.95114e-06
+Total time to solve in 2 steps : 48.2475
+Mean time per vCycle:  23.3924
+Starting residual at 0 263.242
+Residual at 0: 11.6047 Residual reduction: 22.6841 Convergence factor: 0.0440837
+Residual at 0: 0.265947 Residual reduction: 989.831 Convergence factor: 0.0229172
+Residual at 0: 0.00715604 Residual reduction: 36786 Convergence factor: 0.0269078
+Residual at 0: 0.000214969 Residual reduction: 1.22456e+06 Convergence factor: 0.0300402
+Residual at 0: 9.81079e-06 Residual reduction: 2.68319e+07 Convergence factor: 0.0456381
+Residual at 0: 1.40566e-06 Residual reduction: 1.87272e+08 Convergence factor: 0.143277
+Residual at 0: 2.70172e-07 Residual reduction: 9.74349e+08 Convergence factor: 0.192203
+Residual at 0: 5.28434e-08 Residual reduction: 4.98155e+09 Convergence factor: 0.195591
+Residual at 0: 1.03611e-08 Residual reduction: 2.54068e+10 Convergence factor: 0.196072
+Residual at 0: 2.03352e-09 Residual reduction: 1.29451e+11 Convergence factor: 0.196265
+Total time to solve in 10 steps : 62.961
+Mean time per vCycle:  4.00181
+Starting residual: 3.00678
+Residual: 6.00976e-05 Residual reduction: 50031.7 Convergence factor: 1.99873e-05
+Residual: 5.37051e-10 Residual reduction: 5.5987e+09 Convergence factor: 8.93631e-06
+Total time to solve in 2 steps : 47.9659
+Mean time per vCycle:  23.3298
+Starting residual at 0 263.25
+Residual at 0: 11.6067 Residual reduction: 22.681 Convergence factor: 0.0440899
+Residual at 0: 0.266065 Residual reduction: 989.42 Convergence factor: 0.0229235
+Residual at 0: 0.00716089 Residual reduction: 36762.2 Convergence factor: 0.026914
+Residual at 0: 0.000215147 Residual reduction: 1.22359e+06 Convergence factor: 0.0300447
+Residual at 0: 9.81477e-06 Residual reduction: 2.68219e+07 Convergence factor: 0.045619
+Residual at 0: 1.40565e-06 Residual reduction: 1.8728e+08 Convergence factor: 0.143218
+Residual at 0: 2.70136e-07 Residual reduction: 9.7451e+08 Convergence factor: 0.192179
+Residual at 0: 5.28339e-08 Residual reduction: 4.98261e+09 Convergence factor: 0.195582
+Residual at 0: 1.03588e-08 Residual reduction: 2.54131e+10 Convergence factor: 0.196064
+Residual at 0: 2.03304e-09 Residual reduction: 1.29486e+11 Convergence factor: 0.196261
+Total time to solve in 10 steps : 62.9563
+Mean time per vCycle:  4.00716
+Starting residual: 3.00686
+Residual: 6.01016e-05 Residual reduction: 50029.6 Convergence factor: 1.99882e-05
+Residual: 5.37846e-10 Residual reduction: 5.59056e+09 Convergence factor: 8.94894e-06
+Total time to solve in 2 steps : 48.3349
+Mean time per vCycle:  23.4162
+Starting residual at 0 263.261
+Residual at 0: 11.6069 Residual reduction: 22.6815 Convergence factor: 0.0440887
+Residual at 0: 0.266012 Residual reduction: 989.661 Convergence factor: 0.0229185
+Residual at 0: 0.00715817 Residual reduction: 36777.8 Convergence factor: 0.0269092
+Residual at 0: 0.000215053 Residual reduction: 1.22417e+06 Convergence factor: 0.030043
+Residual at 0: 9.82254e-06 Residual reduction: 2.68018e+07 Convergence factor: 0.045675
+Residual at 0: 1.4087e-06 Residual reduction: 1.86883e+08 Convergence factor: 0.143415
+Residual at 0: 2.70868e-07 Residual reduction: 9.71918e+08 Convergence factor: 0.192282
+Residual at 0: 5.29996e-08 Residual reduction: 4.96724e+09 Convergence factor: 0.195666
+Residual at 0: 1.03956e-08 Residual reduction: 2.53244e+10 Convergence factor: 0.196144
+Residual at 0: 2.04104e-09 Residual reduction: 1.28984e+11 Convergence factor: 0.196337
+Total time to solve in 10 steps : 62.8966
+Mean time per vCycle:  4.00008
+Total time to solve:  1489.38
+Mean time per sample:  148.938
+Norm of the solution:  5.33638
+Finished job script on mother superior node i10hpc11...
+Finished user epilogue on all sister nodes...
+Starting user epilogue on mother superior node i10hpc11...
+Exiting user epilogue on mother superior node i10hpc11...

@@ -1,9 +1,8 @@
 #!/bin/bash -l
-#PBS -N _ADD_NAME_
-#PBS -l nodes=2	:ppn=32
+#PBS -N exa_test
+#PBS -l nodes=2:ppn=32
 #PBS -l walltime=00:30:00
-#PBS -M _ADD_MAIL_ -m abe
-#PBS -o $PBS_JOBNAME.out -e $PBS_JOBNAME.out
+#PBS -M  <login>@i10.informatik.uni-erlangen.de -m abe
 #PBS -q normal
 
 ### start of jobscript
@@ -11,9 +10,9 @@
 . /etc/profile.d/modules.sh
 
 module load openmpi
-module load gcc/4.8.2
+module load gcc
 
-cd _PATH_OF_PROJECT_
+cd /home/stud/ug30owag/Documents/GMRF_exa
 
 make clean && time make -j
 mpirun -np 36 -npernode 18 ./exastencils
